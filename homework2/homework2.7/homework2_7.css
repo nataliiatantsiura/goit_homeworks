@@ -1,0 +1,17 @@
+.p{
+	font-style: italic;
+	font-size: 25px;
+	
+}
+.div{
+	border: 2px dashed black;
+	height: 100px;
+	width: 380px;
+	padding: 10px;
+}
+.sub{
+	color: blue;
+}
+.sup{
+	color: red;
+}

@@ -1,0 +1,12 @@
+.class{
+	height: 80px;
+	width: 250px;
+	background: coral;
+	font-size: 40px;
+	line-height: 50px;
+	/*text-align: center;*/
+	left: 10%;
+	padding: 10px;
+    box-sizing: border-box;
+   
+}
