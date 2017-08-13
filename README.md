@@ -1,10 +1,10 @@
 # goit_homeworks
 
 Домашнее задание 2, задание  1
-https://github.com/nataliiatantsiura/goit_homeworks/blob/master/homework2/1.jpg
+<https://github.com/nataliiatantsiura/goit_homeworks/blob/master/homework2/1.jpg>
 
 Домашнее задание 2, задание  2
-https://github.com/nataliiatantsiura/goit_homeworks/blob/master/homework2/2.jpg
+<https://github.com/nataliiatantsiura/goit_homeworks/blob/master/homework2/2.jpg>
 
 Домашнее задание 2, задание  3
 https://github.com/nataliiatantsiura/goit_homeworks/blob/master/homework2/3.jpg
